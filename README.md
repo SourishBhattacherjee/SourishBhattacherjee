@@ -1,18 +1,3 @@
-Below is a **complete GitHub Profile README** template tailored for a **developer like you (AI/ML + Full-Stack + Security + Data)** based on the projects you've worked on (resume ranking NLP system, face recognition CNN, IoT privacy framework, Power BI analytics, React apps, etc.).
-
-It includes:
-
-* Profile intro
-* Tech stack with icons
-* Projects
-* Tools
-* GitHub stats
-* Contact links
-* Clean professional structure
-
-You can **paste this directly into `README.md` in your `SourishBhattacherjee` repo**.
-
----
 
 # 👋 Hi, I'm Sourish Bhattacharjee
 
@@ -186,7 +171,7 @@ Backend system for tracking and managing software bugs.
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/sbhatt123/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
